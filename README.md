@@ -1,6 +1,6 @@
 <div align="center">
 
-# Session 18 - EKS and AutoScaling
+# Session 18 - EKS, ALB, and AutoScaling
 
 </div>
 
@@ -197,3 +197,4 @@ locust -f locust.py
 
 # AutoScaling Demo
 
+[![Watch the Demo](https://img.youtube.com/vi/-TVpYtmR6kw/hqdefault.jpg)](https://www.youtube.com/embed/-TVpYtmR6kw)
